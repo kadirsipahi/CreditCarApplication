@@ -12,14 +12,14 @@ Projeyi Nasıl Çalıştıracağız?
 İDE nize indirmiş olduğunuz kaynak kodları ister İDE üzerinden run yaparak, isterseniz de yine İDE niz üzerinden çalışabilir .jar dosyasına dönüştürüp kullanabilirsiniz.
 
 Proje Geliştirilirken Hangi Teknolojilerden Yararlanıldı?
-• Maven
-• IntelliJ Idea
-• JSP, JSF, Spring, Spring Boot
-• İlişkisel Veritabanı (MySQL)
-• JDBC
-• Web Servis Teknolojileri (REST ve RESTful Web Servis)
-• JPA/Hibernate
-• Apache Tomcat
+• Maven<br>
+• IntelliJ Idea<br>
+• JSP, JSF, Spring, Spring Boot<br>
+• İlişkisel Veritabanı (MySQL)<br>
+• JDBC<br>
+• Web Servis Teknolojileri (REST ve RESTful Web Servis)<br>
+• JPA/Hibernate<br>
+• Apache Tomcat<br>
 
 Projeyi Geliştirenler:
 Kadir SİPAHİ
