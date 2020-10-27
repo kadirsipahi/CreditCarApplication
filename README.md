@@ -5,10 +5,10 @@ Projenin Özeti
 
 Uygulamada Spring Boot Kütüphanesi kullanılmış, bağımlılıkların yönetilmesi Maven teknolojisi ile sağlanmıştır. Veri tabanı olarak MySql Veri Tabanı kullanılmış olup uygulamanın veri tabanı ile haberleşmesi Hibernate Teknolojisi ile sağlanmıştır. Uygulama front-end kısmı tamamlanınca kullanıcılara görsel olarak kolaylık sağlayacaktır. 
 
-Projeyi Nasıl İndireceğiz?
+Projeyi Nasıl İndireceğiz?<br>
 Projeyi JAVA Programlama dili için kullanmış olduğunuz İDE nize bu repositories ile indirebilir, kaynak kodunu düzenleyebilir, eklemeler yapabilir ve çalıştırılabilir .jar dosyası oluşturabilirsiniz.
 
-Projeyi Nasıl Çalıştıracağız?
+Projeyi Nasıl Çalıştıracağız?<br>
 İDE nize indirmiş olduğunuz kaynak kodları ister İDE üzerinden run yaparak, isterseniz de yine İDE niz üzerinden çalışabilir .jar dosyasına dönüştürüp kullanabilirsiniz.
 
 Proje Geliştirilirken Hangi Teknolojilerden Yararlanıldı?<br>
