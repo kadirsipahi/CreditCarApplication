@@ -22,4 +22,4 @@ Projeyi JAVA Programlama dili için kullanmış olduğunuz İDE nize bu reposito
 • Apache Tomcat<br>
 
 <strong>Projeyi Geliştirenler:</strong><br>
-<strong>Kadir SİPAHİ</strong>
+<strong><i>Kadir SİPAHİ</i></strong>
