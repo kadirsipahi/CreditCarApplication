@@ -5,13 +5,13 @@
 
 <p>Uygulamada Spring Boot Kütüphanesi kullanılmış, bağımlılıkların yönetilmesi Maven teknolojisi ile sağlanmıştır. Veri tabanı olarak MySql Veri Tabanı kullanılmış olup uygulamanın veri tabanı ile haberleşmesi Hibernate Teknolojisi ile sağlanmıştır. Uygulama front-end kısmı tamamlanınca kullanıcılara görsel olarak kolaylık sağlayacaktır. 
 
-Projeyi Nasıl İndireceğiz?<br>
+<strong>Projeyi Nasıl İndireceğiz?</strong><br>
 Projeyi JAVA Programlama dili için kullanmış olduğunuz İDE nize bu repositories ile indirebilir, kaynak kodunu düzenleyebilir, eklemeler yapabilir ve çalıştırılabilir .jar dosyası oluşturabilirsiniz.
 
-Projeyi Nasıl Çalıştıracağız?<br>
+<strong>Projeyi Nasıl Çalıştıracağız?</strong><br>
 İDE nize indirmiş olduğunuz kaynak kodları ister İDE üzerinden run yaparak, isterseniz de yine İDE niz üzerinden çalışabilir .jar dosyasına dönüştürüp kullanabilirsiniz.
 
-Proje Geliştirilirken Hangi Teknolojilerden Yararlanıldı?<br>
+<strong>Proje Geliştirilirken Hangi Teknolojilerden Yararlanıldı?</strong><br>
 • Maven<br>
 • IntelliJ Idea<br>
 • JSP, JSF, Spring, Spring Boot<br>
@@ -21,5 +21,5 @@ Proje Geliştirilirken Hangi Teknolojilerden Yararlanıldı?<br>
 • JPA/Hibernate<br>
 • Apache Tomcat<br>
 
-Projeyi Geliştirenler:<br>
-Kadir SİPAHİ
+<strong>Projeyi Geliştirenler:</strong><br>
+<strong>Kadir SİPAHİ</strong>
