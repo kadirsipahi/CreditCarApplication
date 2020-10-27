@@ -1,7 +1,7 @@
 # CreditCarApplication
 
 Projenin Özeti
-Bu proje JAVA Programlama Dili ile başlangıç seviyesinde yazılmış bir araba-kredi uygulamasıdır. Yönetici olarak sisteme giriş yapabilen ve kredi durumunu onaylayan "Admin" statusu ve kredi başvurusu yapan "Customer" statusu yer almaktadır. Customer statüsü ile giriş yapan ve kredi başvurusu yapmak isteyen kullanıcı, kişisel bilgileri ile birlikte kredi miktarını girerek Admin kullanıcısına onay isteği gönderir. Admin gerekli kontrolleri yaptıktan sonra başvuruyu Onaylar veya reddedebilir.
+<p>Bu proje JAVA Programlama Dili ile başlangıç seviyesinde yazılmış bir araba-kredi uygulamasıdır. Yönetici olarak sisteme giriş yapabilen ve kredi durumunu onaylayan "Admin" statusu ve kredi başvurusu yapan "Customer" statusu yer almaktadır. Customer statüsü ile giriş yapan ve kredi başvurusu yapmak isteyen kullanıcı, kişisel bilgileri ile birlikte kredi miktarını girerek Admin kullanıcısına onay isteği gönderir. Admin gerekli kontrolleri yaptıktan sonra başvuruyu Onaylar veya reddedebilir.</p>
 
 Uygulamada Spring Boot Kütüphanesi kullanılmış, bağımlılıkların yönetilmesi Maven teknolojisi ile sağlanmıştır. Veri tabanı olarak MySql Veri Tabanı kullanılmış olup uygulamanın veri tabanı ile haberleşmesi Hibernate Teknolojisi ile sağlanmıştır. Uygulama front-end kısmı tamamlanınca kullanıcılara görsel olarak kolaylık sağlayacaktır. 
 
@@ -21,5 +21,5 @@ Proje Geliştirilirken Hangi Teknolojilerden Yararlanıldı?<br>
 • JPA/Hibernate<br>
 • Apache Tomcat<br>
 
-Projeyi Geliştirenler:
+Projeyi Geliştirenler:<br>
 Kadir SİPAHİ
