@@ -11,7 +11,7 @@ Projeyi JAVA Programlama dili için kullanmış olduğunuz İDE nize bu reposito
 Projeyi Nasıl Çalıştıracağız?
 İDE nize indirmiş olduğunuz kaynak kodları ister İDE üzerinden run yaparak, isterseniz de yine İDE niz üzerinden çalışabilir .jar dosyasına dönüştürüp kullanabilirsiniz.
 
-Proje Geliştirilirken Hangi Teknolojilerden Yararlanıldı?
+Proje Geliştirilirken Hangi Teknolojilerden Yararlanıldı?<br>
 • Maven<br>
 • IntelliJ Idea<br>
 • JSP, JSF, Spring, Spring Boot<br>
